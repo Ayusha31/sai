@@ -1,0 +1,9 @@
+<html>
+<body bgcolor="red">
+<center>
+username:<input type="text box"></br>
+password:<input type="text box"></br>
+<input type="button" value="submit">
+</center>
+</body>
+</html>
